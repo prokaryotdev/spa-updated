@@ -1,0 +1,1 @@
+import{v as e}from"./index-C0Rc4M7T.js";import{q as s}from"./index-BhZeYTlo.js";function i(){const[t]=e();return s.parse(t.toString(),{ignoreQueryPrefix:!0,decoder:r=>r==="true"?!0:r==="false"?!1:r==="null"?null:/^0\d+$/.test(r)?r:/^-?\d+(\.\d+)?$/.test(r)?Number(r):(r=decodeURIComponent(r==null?void 0:r.replace(/\+/g," ")),r)})}export{i as u};

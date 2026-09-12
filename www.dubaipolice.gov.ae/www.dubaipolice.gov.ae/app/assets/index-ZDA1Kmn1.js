@@ -1,0 +1,1 @@
+import{j as e,a$ as i}from"./index-C0Rc4M7T.js";/* empty css               *//* empty css                   *//* empty css                   */const j=({children:r,customSettings:s,className:t,swiperRef:o})=>e.jsx(i,{ref:o,...s,className:`${t}`,children:r});export{j as S};

@@ -1,0 +1,1 @@
+import{es as t,t as i,et as u}from"./index-C0Rc4M7T.js";function o(){const{data:s}=t();return i({queryKey:[u.mostUsed.list,s],queryFn:async()=>s?s.map(e=>e.dp_services).map(e=>e.map(r=>r.sub_services).flat()).flat().filter(e=>e.mostUsed):[]})}export{o as u};
